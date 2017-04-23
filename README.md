@@ -1,1 +1,1 @@
-![N|Solid](https://raw.githubusercontent.com/killown/gnome-timer/master/Images/screenshot.png)
+![N|Solid](https://github.com/killown/arc-shell/raw/master/arc-shell.png)
